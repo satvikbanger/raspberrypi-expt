@@ -1,0 +1,3 @@
+[submodule "lane-detection-raspberry-pi"]
+	path = lane-detection-raspberry-pi
+	url = https://github.com/hal3e/lane-detection-raspberry-pi
